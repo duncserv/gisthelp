@@ -835,6 +835,13 @@ a {
 .cid-s9zvlYTWZl {
   background-image: url("../../../assets/images/mbr.jpg");
 }
+.cid-s9zvlYTWZl .mbr-section-title {
+  color: #e6c63b;
+}
+.cid-s9zvlYTWZl .mbr-text,
+.cid-s9zvlYTWZl .mbr-section-btn {
+  color: #e6c63b;
+}
 .cid-s9zvLfxA1b {
   background-color: #353535;
 }
