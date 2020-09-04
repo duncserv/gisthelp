@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "gisthelp",
+    "name": "gisthelp-black elephant",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -33,6 +33,14 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "5.0.29",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/b-elephant.png",
+    "imageResize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 2,
     "versionPublish": "5.0.29"
   },
